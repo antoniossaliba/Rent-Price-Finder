@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 import requests
 import time
 
-#We can do the Web scraping part using directly Selenium Webdriver. However, for better practice and for better
-#practice using BeautifulSoup is better while scraping a website.
+#We can do the Web scraping part using directly Selenium Webdriver. However, for better practice
+#using BeautifulSoup is better while scraping a website.
 
 # driver1 = webdriver.Edge()
 # driver1.get(url="https://appbrewery.github.io/Zillow-Clone/")
